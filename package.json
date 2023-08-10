@@ -1,0 +1,15 @@
+{
+  "name": "HyperGpt-api",
+  "version": "1.0.0",
+  "description": "REST API",
+  "main": "app.js",
+  
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "GURU",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
